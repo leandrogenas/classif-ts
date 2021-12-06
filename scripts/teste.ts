@@ -22,7 +22,8 @@ const frasesTeste = [
     {valor: 'i am tired', esperado: NEGATIVA},
     {valor: 'this is tiring', esperado: NEGATIVA},
     {valor: 'this is uplifting', esperado: POSITIVA},
-    {valor: 'this is nice', esperado: POSITIVA},
+    {valor: 'this is racist', esperado: NEGATIVA},
+    {valor: 'okay', esperado: POSITIVA}
 ] as TesteEstado[]
 
 let i = 0;
