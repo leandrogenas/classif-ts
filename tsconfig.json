@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "es5",
+        "module": "commonjs",
+        "rootDir": "./",
+        "outDir": "./dist",
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "resolveJsonModule": true
+    },
+    "include": ["src"],
+    "exclude": ["__tests__"]
+}

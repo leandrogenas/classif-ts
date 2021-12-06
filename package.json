@@ -1,0 +1,32 @@
+{
+  "name": "classif-ts",
+  "description": "Classificador Naive Bayes escrito em Typescript",
+  "version": "0.1.20211206",
+  "author": "Leandro Fabri Pereira <eu@leand.pro>",
+  "private": true,
+  "main": "./dist/src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/leandrogenas/bayes-ts.git"
+  },
+  "engines": {
+    "node": "^14.16",
+    "yarn": "^1.1",
+    "npm": "^7"
+  },
+  "scripts": {
+    "test": "mocha -t 30000 -R spec",
+    "teste": "ts-node ./scripts/teste.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.16",
+    "mocha": ">=0.8.1",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "csv-parse": "^5.0.3"
+  }
+}
