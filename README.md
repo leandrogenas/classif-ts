@@ -38,4 +38,26 @@ yarn teste   -> rodar o script de testes
 ```
 
 ---
+## adaptando pro trampo de ia:
+
+> será que o processamento de dados acaba gerando uma
+> tendência de confirmação, aonde o pensamento
+> indutivo é utilizado como o método para a detecção de
+> padrões em massas de dados? Em específico, acredito que 
+> deva atingir a parte de idealização (definição) 
+> e subsequente treinamento do modelo criado, aonde são dadas 
+> escolhas pré-selecionadas e muitas vezes de cunho binário.
+> Se verdade, significa que conclusões arbitrárias podem ser
+> tiradas de uma massa de dados, dada uma densidade suficientemente
+> grande de informações que permitam explicar uma conclusão através
+> de distorções coerentes definidas com o modelo.
+> e.g:
+
+https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format
+https://www.kaggle.com/saurabhshahane/twitter-sentiment-dataset
+https://www.kaggle.com/marklvl/sentiment-labelled-sentences-data-set
+https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
+https://github.com/viritaromero/Detecting-Depression-in-Tweets
+
+---
 inspirado no projeto [ttezel/bayes](https://github.com/ttezel/bayes)
